@@ -96,13 +96,3 @@ This app uses `StatefulWidget` and `setState` only — no external state managem
 Flutter built-in widgets only — no external packages.
 
 ---
-
-## Screenshots
-*(Add screenshots of your app here after recording your demo)*
-
----
-
-## Submission
-- [x] All `.dart` files submitted
-- [x] Screen recording completed
-- [ ] Verbal defence attended
