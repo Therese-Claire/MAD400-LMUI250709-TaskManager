@@ -1,4 +1,4 @@
-# MemberMe - Personal Task Manager App
+# MembaMe- Personal Task Manager App
 
 A Flutter-based personal task manager mobile application built as part of the Mobile Application Development course (Level 400 Software Engineering).
 
